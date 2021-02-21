@@ -15,4 +15,4 @@ A flashcard creator and template app, useful for students wanting an easy and si
   - Type as many questions as you want (Max 5).
   - To play your deck, select your choice in the list box and click 'Play'.
 
-Download the 'Flashcard Math Game.exe' file to test the program
+Download the 'Glutamate.exe' file to test the program
